@@ -69,3 +69,13 @@
   transform: translateY(1px);
 }
 
+@media (max-width: 470px) {
+  h1 {
+    position: sticky;
+    text-align: center;
+    width: 100px;
+    margin-top: 8px;
+    margin-left: 3px;
+  }
+}
+

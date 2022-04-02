@@ -1,0 +1,78 @@
+.navbar {
+}
+
+.navbar-nav {
+  text-decoration:  underline;
+  font-family: Alatsi, sans-serif;
+  font-size: 20px;
+  margin-left: 140px;
+  padding-left: 103px;
+}
+
+a {
+}
+
+input {
+  background: rgba(255,255,255,0.2);
+  color: rgb(255,255,255);
+  font-size: 18px;
+  font-family: Alatsi, sans-serif;
+}
+
+.fa.fa-search {
+  padding-right: 2px;
+}
+
+svg {
+  font-size: 43px;
+  color: rgb(155,157,158);
+}
+
+#navcol-1 {
+}
+
+.MainContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.Left {
+  /*background: #eecece;*/
+  width: 600px;
+  height: 400px;
+  display: flex;
+  /*align-items: center;*/
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px;
+}
+
+.Right {
+  width: 400px;
+  height: 350px;
+  /*background: white;*/
+}
+
+.Section1 {
+  /*background-color: #2980ef;*/
+  padding-top: 150px;
+  background-image: url("../../assets/img/star-sky.jpg");
+  height: 1000px;
+}
+
+p {
+}
+
+h1 {
+}
+
+.btn {
+  background: #f4476b;
+  color: var(--bs-white);
+}
+
+.buton {
+  width: 100px;
+}
+
